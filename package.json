@@ -1,0 +1,11 @@
+{
+  "name": "02-igniting-our-app",
+  "version": "1.0.0",
+  "description": "Second Live Session",
+  "main": "App.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
